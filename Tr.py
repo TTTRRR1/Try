@@ -1,12 +1,3 @@
-
-BHOOT-CYBER-143
-BHOOT-CYBER-143
-yesterday
-File metadata and controls
-
-Code
-
-Blame
 #-----------------------[ INFO-CODE ]-----------------------#
 """Open By   : Tanim Hossain [BHOOT-CYBER]
 Developer : Tanim Hossain
