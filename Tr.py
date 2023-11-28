@@ -1,9 +1,3 @@
-#-----------------------[ INFO-CODE ]-----------------------#
-"""Open By   : Tanim Hossain [BHOOT-CYBER]
-Developer : Tanim Hossain
-Github    : Bhoot-Cyber-143
-Status    : Open Source"""
-#-----------------------[ IMPORT-CODE ]-----------------------#
 import os
 import sys
 import marshal, base64, zlib
