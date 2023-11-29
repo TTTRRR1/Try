@@ -1290,7 +1290,7 @@ def xerx1():
 	print(47*'-')
 	limit = int(input('[?] EXAMPLE CLONE : 2000  3000 4000 5000 :-'))
 	for nmbr in range(limit):
-		nmp = ''.join(random.choice(string.digits) for _ in range(7))
+		nmp = ''.join(random.choice(string.digits) for _ in range(6))
 		user.append(nmp)
 	os.system("clear")
 	print(logo)
